@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":10,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"lostkingprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"lostkingprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Casandra","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"castlebritprincess_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"castlebritprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Julia","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"rondorinprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rondorinprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Donna","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"castleshaminoprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"castleshaminoprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dianne","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"blackdragonprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"blackdraonprincess-face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Beth","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"baratariaprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"baratariaprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Martha","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"whitedragonprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"whitedragonprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lori","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"castleolympusprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"castleolympusprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kristen","nickname":"","note":"","profile":""}
+]
