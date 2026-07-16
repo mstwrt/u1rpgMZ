@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":10,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":10,"name":"The Hero","nickname":"Hero","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"lostkingprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"lostkingprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Casandra","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"castlebritprincess_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"castlebritprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Julia","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"rondorinprincess_walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rondorinprincess_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Donna","nickname":"","note":"","profile":""},
